@@ -1,0 +1,17 @@
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.csproj.AssemblyReference.cache
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker_s_algorithm.Form1.resources
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.csproj.GenerateResource.cache
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.AssemblyInfoInputs.cache
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.AssemblyInfo.cs
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.csproj.CoreCompileInputs.cache
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\bin\Debug\net6.0-windows\Banker's algorithm.exe
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\bin\Debug\net6.0-windows\Banker's algorithm.deps.json
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\bin\Debug\net6.0-windows\Banker's algorithm.runtimeconfig.json
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\bin\Debug\net6.0-windows\Banker's algorithm.dll
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\bin\Debug\net6.0-windows\Banker's algorithm.pdb
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.dll
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\refint\Banker's algorithm.dll
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.pdb
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\Banker's algorithm.genruntimeconfig.cache
+C:\Users\mizoa\source\repos\Banker's algorithm\Banker's algorithm\obj\Debug\net6.0-windows\ref\Banker's algorithm.dll
